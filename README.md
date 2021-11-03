@@ -1,1 +1,2 @@
-# cvvc
+# synchronousBallMovement
+Ball moving synchronously
